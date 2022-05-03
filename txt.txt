@@ -1,0 +1,12 @@
+- TAILWINDCSS
+    - npm install -D tailwindcss postcss autoprefixer
+    - npx tailwindcss init -p
+    - tailwind.config.js
+        module.exports = {
+            content: ["./src/**/*.tsx"],
+            theme: {
+                extend: {},
+            },
+            plugins: [],
+        }
+
