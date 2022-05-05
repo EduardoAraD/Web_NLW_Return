@@ -1,3 +1,4 @@
+--- 1 DIA
 - TAILWINDCSS
     - npm install -D tailwindcss postcss autoprefixer
     - npx tailwindcss init -p
@@ -10,3 +11,8 @@
             plugins: [],
         }
 
+---- 2 DIA
+- html2canvas
+    - era disso que eu precisava; SCREENSHOT
+
+#NeverStopLearning
